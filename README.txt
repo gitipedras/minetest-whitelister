@@ -1,7 +1,7 @@
 Minetest mod "Whitelister"
 =====================
 
-Adds an allowlist to your server.
+Adds a whitelist/allowlist to your server.
 
 About this mod:
 ---------------
